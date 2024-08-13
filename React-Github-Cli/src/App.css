@@ -80,3 +80,85 @@ nav .nav-hero {
 nav .fa-github{
     color: white;
 }
+
+.sec-main {
+    background-image: url(./images/./light-glow\ \(1\).svg);
+    background-position: bottom;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    background-color: rgb(3, 3, 3);
+}
+
+.sec-main p {
+    color: white;
+}
+
+.sec-main .sec-first a {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.sec-main .sec-first p {
+    font-size: 16px;
+}
+
+.sec-imp {
+    width: 900px;
+    height: 400px;
+    background-color: #010409;
+    padding: 15px;
+}
+
+.sec-imp .imp-one {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-two {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-three {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-resp {
+    display: flex;
+    gap: 5px;
+}
+
+.sec-imp .imp-play .fa-pause {
+    font-size: 25px;
+}
+
+.sec-imp .sec-resp {
+    display: flex;
+    justify-content: space-around;
+    gap: 90%;
+}
+
+.sec-imp p {
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    word-spacing: 1.5px;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+}
+
+.sec-main h5 {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
