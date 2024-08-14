@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import "./responsive.css"
 import Nav from "./nav.jsx";
 import SecMain from "./secMain.jsx";
 import MiddleMain from "./middleMain.jsx";
