@@ -47,6 +47,6 @@ function MiddleMain() {
   );
 }
 
-MiddleMain()
+MiddleMain();
 
 export default MiddleMain;

@@ -18,4 +18,4 @@ function MiddleLast() {
   );
 }
 
-export default MiddleLast
+export default MiddleLast;
